@@ -75,7 +75,7 @@ Three measurements are immediately available.
   ```bash
   > 0M1!
   00001
-```
+  ```
   
   One measurement is immediately available.
 
